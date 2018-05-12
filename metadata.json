@@ -1,0 +1,18 @@
+{
+  "name": "gyoganandhan-ssh",
+  "version": "0.1.0",
+  "author": "Yoganandhan Ganesan <gyoganandhan@gmail.com>",
+  "summary": "This module will manage",
+  "license": "Apache-2.0",
+  "source": "https://github.com/gyoganandhan/puppet-ssh",
+  "project_page": "https://github.com/gyoganandhan/puppet-ssh",
+  "issues_url": "https://github.com/gyoganandhan/puppet-ssh/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
